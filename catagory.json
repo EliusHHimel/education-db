@@ -2,22 +2,104 @@
     {
         "name": "3D Modeling & Animation",
         "available": "3",
-        "img": "https://us.v-cdn.net/5021068/uploads/editor/o6/3wz2rc9w7qwt.png"
+        "img": "https://us.v-cdn.net/5021068/uploads/editor/o6/3wz2rc9w7qwt.png",
+        "courses": [
+            {
+                "id" : "1",
+                "title" : "3D Modeling For Absolute Beginners",
+                "fee" : "3000",
+                "img" : "https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/introduction-to-3d-modeling-ihqacpzb.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "3D Modeling & Rendering",
+                "fee" : "5000",
+                "img" : "https://uploads-ssl.webflow.com/5c248f4c4fdbba624ebe01b0/5e68d7bd74a45a83e7fb1d91_3D-modeling-course-2000.png"
+            },
+            {
+                "id" : "3",
+                "title" : "3D Modeling Fundamentals",
+                "fee" : "5000",
+                "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqfhqj-UuCbOxt2-xLwPEO9xWpQu_4o2Rci-7CwO8izn34p26W9wnFcq_iVIXDA8cH7GY&usqp=CAU"
+            }
+            
+        ]
     },
     {
         "name": "Web Development",
-        "available": "4",
-        "img": "https://www.bytecodesoft.com/wp-content/uploads/2017/05/web-development-courses.jpg"
+        "available": "3",
+        "img": "https://www.bytecodesoft.com/wp-content/uploads/2017/05/web-development-courses.jpg",
+        "courses": [
+            {
+                "id" : "4",
+                "title" : "Full Stack Development",
+                "fee" : "6000",
+                "img" : "https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/best-full-stack-web-developer-courses-certification-online-ppjh0d5a.jpg"
+            },
+            {
+                "id" : "5",
+                "title" : "Advanced Web App Development",
+                "fee" : "8000",
+                "img" : "https://www.felixent.org/wp-content/uploads/2019/05/web-development.jpg"
+            },
+            {
+                "id" : "6",
+                "title" : "Become a Front-End Developer",
+                "fee" : "5000",
+                "img" : "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png"
+            }   
+        ]
+        
     },
     {
         "name": "Software Development",
         "available": "5",
-        "img": "http://www.bigwaytechnology.com/images/courses/software-development.png"
+        "img": "http://www.bigwaytechnology.com/images/courses/software-development.png",
+        "courses": [
+            {
+                "id" : "7",
+                "title" : "Java Programming & Software Engineering Fundamentals",
+                "fee" : "6000",
+                "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8vZ_85ZL_FBwE487U4ho_JoN3gpTyB9V58w&usqp=CAU"
+            },
+            {
+                "id" : "8",
+                "title" : "Python Beginners To Advance",
+                "fee" : "8000",
+                "img" : "https://i.ytimg.com/vi/PJlAnR3asGQ/maxresdefault.jpg"
+            },
+            {
+                "id" : "9",
+                "title" : "Android Development",
+                "fee" : "5000",
+                "img" : "https://i1.wp.com/elysiumacademy.org/wp-content/uploads/2018/12/Android.jpg"
+            },   
+            {
+                "id" : "10",
+                "title" : "Artificial Intelligency with Python",
+                "fee" : "5000",
+                "img" : "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/06/Artificial-Intelligence-With-Python.jpg"
+            }   
+        ]
     },
     {
         "name": "Graphics Design",
-        "available": "6",
-        "img": "https://i.graphicmama.com/blog/wp-content/uploads/2019/04/11142949/online-graphic-design-courses-the-most-comprehensive-guide-11.jpg"
+        "available": "2",
+        "img": "https://i.graphicmama.com/blog/wp-content/uploads/2019/04/11142949/online-graphic-design-courses-the-most-comprehensive-guide-11.jpg",
+        "courses": [
+            {
+                "id" : "11",
+                "title" : "Graphics Design Masterclass",
+                "fee" : "6000",
+                "img" : "https://i.ytimg.com/vi/8oisaiPASeo/maxresdefault.jpg"
+            },
+            {
+                "id" : "12",
+                "title" : "Graphic Design Advance",
+                "fee" : "8000",
+                "img" : "https://axcoreacademy.com/wp-content/uploads/2020/09/graphic-designing-advance.jpg"
+            } 
+        ]
     }
 
 ]
