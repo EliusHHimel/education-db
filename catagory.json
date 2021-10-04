@@ -1,0 +1,23 @@
+[
+    {
+        "name": "3D Modeling & Animation",
+        "available": "3",
+        "img": "https://us.v-cdn.net/5021068/uploads/editor/o6/3wz2rc9w7qwt.png"
+    },
+    {
+        "name": "Web Development",
+        "available": "4",
+        "img": "https://us.v-cdn.net/5021068/uploads/editor/o6/3wz2rc9w7qwt.png"
+    },
+    {
+        "name": "Software Development",
+        "available": "5",
+        "img": "https://us.v-cdn.net/5021068/uploads/editor/o6/3wz2rc9w7qwt.png"
+    },
+    {
+        "name": "Graphics Design",
+        "available": "6",
+        "img": "https://us.v-cdn.net/5021068/uploads/editor/o6/3wz2rc9w7qwt.png"
+    }
+
+]
