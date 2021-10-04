@@ -1,5 +1,6 @@
 [
     {
+        "ca-id" : "modeling",
         "name": "3D Modeling & Animation",
         "available": "3",
         "img": "https://us.v-cdn.net/5021068/uploads/editor/o6/3wz2rc9w7qwt.png",
@@ -26,6 +27,7 @@
         ]
     },
     {
+        "ca-id" : "web",
         "name": "Web Development",
         "available": "3",
         "img": "https://www.bytecodesoft.com/wp-content/uploads/2017/05/web-development-courses.jpg",
@@ -52,6 +54,7 @@
         
     },
     {
+        "ca-id" : "software",
         "name": "Software Development",
         "available": "5",
         "img": "http://www.bigwaytechnology.com/images/courses/software-development.png",
@@ -83,6 +86,7 @@
         ]
     },
     {
+        "ca-id" : "graphics",
         "name": "Graphics Design",
         "available": "2",
         "img": "https://i.graphicmama.com/blog/wp-content/uploads/2019/04/11142949/online-graphic-design-courses-the-most-comprehensive-guide-11.jpg",
